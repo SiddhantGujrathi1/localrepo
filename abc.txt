@@ -1,1 +1,2 @@
 This is normal file
+This is a new feature
